@@ -1,0 +1,33 @@
+div{
+    text-align:center;
+}
+.eye1{
+    width:74px;
+    height:89px;
+    border-radius:100%;
+    position:relative;
+    border:2px solid black;
+    bottom:747px;
+    left:694px;
+    overflow:hidden;
+}
+.balls{
+    width:18px;
+    height:29px;
+    border-radius:50%;
+    position:relative;
+    border:2px solid black;
+    top:30px;
+    left:40px;
+    
+}
+.eye2{
+   width:75px;
+   height:89px;
+   border-radius:50%;
+   position:relative;
+   border:2px solid black;
+   bottom:839px;
+   left:770px;
+   overflow:hidden;
+}
